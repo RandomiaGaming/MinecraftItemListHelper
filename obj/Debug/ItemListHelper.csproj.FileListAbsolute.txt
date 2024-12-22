@@ -1,0 +1,14 @@
+E:\Minecraft_Item_List\ItemListHelper\bin\Debug\ItemListHelper.exe.config
+E:\Minecraft_Item_List\ItemListHelper\bin\Debug\ItemListHelper.exe
+E:\Minecraft_Item_List\ItemListHelper\bin\Debug\ItemListHelper.pdb
+E:\Minecraft_Item_List\ItemListHelper\obj\Debug\ItemListHelper.csproj.AssemblyReference.cache
+E:\Minecraft_Item_List\ItemListHelper\obj\Debug\ItemListHelper.csproj.CoreCompileInputs.cache
+E:\Minecraft_Item_List\ItemListHelper\obj\Debug\ItemListHelper.exe
+E:\Minecraft_Item_List\ItemListHelper\obj\Debug\ItemListHelper.pdb
+D:\Coding\C#\Minecraft Item List\ItemListHelper\bin\Debug\ItemListHelper.exe.config
+D:\Coding\C#\Minecraft Item List\ItemListHelper\bin\Debug\ItemListHelper.exe
+D:\Coding\C#\Minecraft Item List\ItemListHelper\bin\Debug\ItemListHelper.pdb
+D:\Coding\C#\Minecraft Item List\ItemListHelper\obj\Debug\ItemListHelper.csproj.AssemblyReference.cache
+D:\Coding\C#\Minecraft Item List\ItemListHelper\obj\Debug\ItemListHelper.csproj.CoreCompileInputs.cache
+D:\Coding\C#\Minecraft Item List\ItemListHelper\obj\Debug\ItemListHelper.exe
+D:\Coding\C#\Minecraft Item List\ItemListHelper\obj\Debug\ItemListHelper.pdb
